@@ -9,7 +9,14 @@ Here you will find information on our projects, databases, APIs and other develo
 
 ## Closed Projects 
 
-## APIs, libraries, tools 
+## Platforms and equipments
+
+- [Aramis](https://github.com/lara-unb/aramis): mobile robot platform based on Pioneer base, equipped with 3D Vision, GPS/INS data fusion system, sonar ring and WiFi. Software run on Linux and ROS. This repository commom to the three platforms used at LARA: Athos, Porthos and Aramis.
+-[Kyle_XY_and Jesse_XX](https://github.com/lara-unb/Kyle_XY_Jesse_XX): small mobile manipulators used for teaching. 
+
+## Databases
+
+## APIs, libraries, software tools 
 
 ## Documents
 
