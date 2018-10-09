@@ -16,3 +16,6 @@ Here you will find information on our projects, databases, APIs and other develo
 
 The following links are from documents prepared by LARA users for other LARA users and the community. 
 
+- [Guia geral do LARA](https://github.com/lara-unb/Guia-geral-do-LARA): LARA's guide for new users.
+- [Boas práticas de programação](https://lara-unb.github.io/dicas-programacao/): Good programming practices
+
