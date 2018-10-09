@@ -16,15 +16,26 @@ Here you will find information on our projects, databases, APIs and other develo
 
 - [Kyle_XY_and Jesse_XX](https://github.com/lara-unb/Kyle_XY_Jesse_XX): small mobile manipulators used for teaching. 
 
+- [Meka Manipulador](https://github.com/lara-unb/Meka): Meka is a compliant manipulator. The Meka repository aims to enable and prepare the Meka Robotics A2 Arm to be used in other projects which require a compliant robotic manipulator. In order to do that it is necessary to develop and implement control techniques, kinematics and dynamics for the robot. All that is being done using ROS, C/C++, python, V-REP and the A2 Arm provided codes.
+
 ## Databases
 
 ## APIs, libraries, software tools 
+
+- [gDataLogger](https://github.com/lara-unb/gdatalogger): data logger library written in C language for real-time, multithreading projects. Samples for pthread, RTAI and XENOMAI. Data is saved in .mat file, allowing reading in Matlab scripts. 
 
 ## Documents
 
 The following links are from documents prepared by LARA users for other LARA users and the community. 
 
+- [Boas práticas de programação](https://lara-unb.github.io/dicas-programacao/): Good programming practices
+
+- [DOCUMENTS](https://github.com/lara-unb/DOCUMENTS): This repository contains templates, manuals and scripts created at the Automation and Robotics Laboratory (LARA). It also contains data and open calls for projects and scholarships focused on LARA users and teams.
+
 - [Guia geral do LARA](https://github.com/lara-unb/Guia-geral-do-LARA): LARA's guide for new users.
 
-- [Boas práticas de programação](https://lara-unb.github.io/dicas-programacao/): Good programming practices
+- [Modelo de tese e dissertação](https://github.com/lara-unb/Modelo-tese-dissertacao-Ene-UnB-sharelatex): Thesis and dissertation models for sharetex
+
+- [TGs](https://github.com/lara-unb/TGs): undergratuate thesis of LARA students (incomplete, under development due to GitHub's storage limitation)
+
 
