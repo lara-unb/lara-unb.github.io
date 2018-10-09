@@ -14,6 +14,8 @@ Here you will find information on our projects, databases, APIs and other develo
 
 - [Aramis](https://github.com/lara-unb/aramis): mobile robot platform based on Pioneer base, equipped with 3D Vision, GPS/INS data fusion system, sonar ring and WiFi. Software run on Linux and ROS. This repository commom to the three platforms used at LARA: Athos, Porthos and Aramis.
 
+- [Cyton](http://lara-unb.github.io/Cyton-LARA/): Cyton Alpha 7D1G is a 7 DOF Robot Arm developed by Robai. It presents 9 servo motors controlled by a SSC-32 board. However, the servo motors does not provide position feedback. For this reason, the Cyton Alpha only allows open-loop projects, restricting a lot the possibilities of development. This project has as main goal closing the loop of the Cyton arm and developing a Matlab-Arduino user interface with some functions
+
 - [Kyle_XY_and Jesse_XX](https://github.com/lara-unb/Kyle_XY_Jesse_XX): small mobile manipulators used for teaching. 
 
 - [Meka Manipulador](https://github.com/lara-unb/Meka): Meka is a compliant manipulator. The Meka repository aims to enable and prepare the Meka Robotics A2 Arm to be used in other projects which require a compliant robotic manipulator. In order to do that it is necessary to develop and implement control techniques, kinematics and dynamics for the robot. All that is being done using ROS, C/C++, python, V-REP and the A2 Arm provided codes.
