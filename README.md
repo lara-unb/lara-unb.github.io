@@ -24,6 +24,8 @@ Here you will find information on our projects, databases, APIs and other develo
 
 - [gDataLogger](https://github.com/lara-unb/gdatalogger): data logger library written in C language for real-time, multithreading projects. Samples for pthread, RTAI and XENOMAI. Data is saved in .mat file, allowing reading in Matlab scripts. 
 
+- [gMatrix](https://github.com/lara-unb/gMatrix): Matrix data type and linear algebra functions in C language for real-time and embedded platforms. 
+
 ## Documents
 
 The following links are from documents prepared by LARA users for other LARA users and the community. 
