@@ -12,13 +12,15 @@ Here you will find information on our projects, databases, APIs and other develo
 
 ## Platforms and equipments
 
-- [Aramis](https://github.com/lara-unb/aramis): mobile robot platform based on Pioneer base, equipped with 3D Vision, GPS/INS data fusion system, sonar ring and WiFi. Software run on Linux and ROS. This repository commom to the three platforms used at LARA: Athos, Porthos and Aramis.
+- [Aramis](https://github.com/lara-unb/aramis): mobile robot platform based on Pioneer P3 base, equipped with 3D Vision, GPS/INS data fusion system, sonar ring and WiFi. Software run on Linux and ROS. This repository commom to the three platforms used at LARA: Athos, Porthos and Aramis.
 
 - [Cyton](http://lara-unb.github.io/Cyton-LARA/): Cyton Alpha 7D1G is a 7 DOF Robot Arm developed by Robai. It presents 9 servo motors controlled by a SSC-32 board. However, the servo motors does not provide position feedback. For this reason, the Cyton Alpha only allows open-loop projects, restricting a lot the possibilities of development. This project has as main goal closing the loop of the Cyton arm and developing a Matlab-Arduino user interface with some functions
 
 - [Kyle_XY_and Jesse_XX](https://github.com/lara-unb/Kyle_XY_Jesse_XX): small mobile manipulators used for teaching. 
 
 - [Meka Manipulador](https://github.com/lara-unb/Meka): Meka is a compliant manipulator. The Meka repository aims to enable and prepare the Meka Robotics A2 Arm to be used in other projects which require a compliant robotic manipulator. In order to do that it is necessary to develop and implement control techniques, kinematics and dynamics for the robot. All that is being done using ROS, C/C++, python, V-REP and the A2 Arm provided codes.
+
+- [Porthos](https://github.com/lara-unb/porthos): ROS packages for Pioneer 3AT, the Porthos robot, useable for both simulation and real robot operation.
 
 ## Databases
 
@@ -28,15 +30,17 @@ Here you will find information on our projects, databases, APIs and other develo
 
 - [gMatrix](https://github.com/lara-unb/gMatrix): Matrix data type and linear algebra functions in C language for real-time and embedded platforms. 
 
-## Documents
-
-The following links are from documents prepared by LARA users for other LARA users and the community. 
+## Howto's and guides
 
 - [Boas práticas de programação](https://lara-unb.github.io/dicas-programacao/): Good programming practices
 
-- [DOCUMENTS](https://github.com/lara-unb/DOCUMENTS): This repository contains templates, manuals and scripts created at the Automation and Robotics Laboratory (LARA). It also contains data and open calls for projects and scholarships focused on LARA users and teams.
-
 - [Guia geral do LARA](https://github.com/lara-unb/Guia-geral-do-LARA): LARA's guide for new users.
+
+## Other documents
+
+The following links are from documents prepared by LARA users for other LARA users and the community. 
+
+- [DOCUMENTS](https://github.com/lara-unb/DOCUMENTS): This repository contains templates, manuals and scripts created at the Automation and Robotics Laboratory (LARA). It also contains data and open calls for projects and scholarships focused on LARA users and teams.
 
 - [Modelo de tese e dissertação](https://github.com/lara-unb/Modelo-tese-dissertacao-Ene-UnB-sharelatex): Thesis and dissertation models for sharetex
 
