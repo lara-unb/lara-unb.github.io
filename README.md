@@ -30,7 +30,7 @@ Here you will find information on our projects, databases, APIs and other develo
 
 - [gMatrix](https://github.com/lara-unb/gMatrix): Matrix data type and linear algebra functions in C language for real-time and embedded platforms. 
 
-## Howto's and guides
+## How to's and guides
 
 - [Boas práticas de programação](https://lara-unb.github.io/dicas-programacao/): Good programming practices
 
