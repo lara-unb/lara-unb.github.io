@@ -36,6 +36,8 @@ Here you will find information on our projects, databases, APIs and other develo
 
 - [Guia geral do LARA](https://github.com/lara-unb/Guia-geral-do-LARA): LARA's guide for new users.
 
+- [blue pill STM32F103](https://github.com/lara-unb/bluepill-STM32F103): Software development environment for generic, low-cost "blue pill" boar for STM32F103 32-bit microcontroller from ST Microelectronics.
+
 ## Other documents
 
 The following links are from documents prepared by LARA users for other LARA users and the community. 
